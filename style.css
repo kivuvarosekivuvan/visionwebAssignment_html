@@ -1,0 +1,181 @@
+#V{
+    color:blue;
+    font-size: large;
+
+}
+
+.nav{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 0%;
+    padding-left: 50%;
+    padding-right: 2%;
+
+}
+.nav ul li{
+    align-items: center;
+    display: inline-flex;
+    padding: 5px;
+}
+.nav ul li a{
+    color:black;
+    text-decoration: solid;
+    font-weight: bold;}
+ #b0{
+        color: white;
+        background-color: rgb(2, 2, 253);
+        border-radius: 20%;
+        padding:6px;
+        font-weight: bold;
+        font-family: Lucida Sans;
+    }
+.eye{
+    margin-left: 10%;
+    
+}
+.main{
+    display: flex;
+    padding:50px;
+}
+#p1{
+    font-family: Lucida Sans;
+    font-size:50px;
+    font-weight: bold;
+    color: rgb(2, 2, 253);
+    position: absolute;
+    margin-top: -3%;
+}
+#p2{
+    font-size:50px ;
+    font-weight: 50%;
+    font-family:Lucida Sans;
+    margin-top: 17%;
+    margin-bottom: 3%;
+    
+}
+#P3{
+font-family:Lucida Sans ;
+
+}
+.buttons{
+    margin-left: 10%;
+    margin-top: 2%;
+    
+}
+#b1{color: white;
+background-color: rgb(4, 4, 206);
+    border-radius: 20%;
+    padding:6px;
+    font-weight: bold;
+    font-family: Lucida Sans;
+    }
+#b2{
+    font-family: Lucida Sans;
+    color:black;
+    margin-left:4%;
+    border-color: transparent;
+}
+#bot{
+   
+    position: absolute;
+    margin-left: 3%;
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5); 
+    width: 18%;
+    height:18%;
+    transition: .5s ease;
+    opacity:1;
+    color: white;
+    border-radius: 10%;
+    font-size: 20px;
+    padding: 2px;
+    text-align: center;
+    
+}
+#bot1{
+    color: blue;
+    font-weight: bold;
+    font-size: large;
+    margin-left: 10%;
+}
+#bot2{
+    color:rgb(36, 35, 35);
+    font-weight: normal;
+}
+#last{
+    
+    margin-left: 30%;
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    width: 18%;
+    height:18%;
+    transition: .5s ease;
+    opacity:1;
+    color: white;
+    font-size: 20px;
+    padding: 2px;
+    text-align: center;
+    border-radius: 10%;
+    
+   
+}
+#full{
+    color:blue;
+    font-weight: bold;
+    font-size: large;
+}
+#get{
+    color:rgb(36, 35, 35);
+    font-weight: normal;
+    position: absolute;
+
+}
+.easyfull{
+    display: flex;
+    
+}
+
+.pic{
+float:right;
+clear:right;
+margin-left: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
