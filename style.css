@@ -147,6 +147,9 @@ float:right;
 clear:right;
 margin-left: 300px;
 }
+body{
+    background-image: url(images/back.jpg);
+}
 
 
 
